@@ -1,5 +1,5 @@
 # AgeCalculator
-This is a very basic android app that calculates your age in minutes, hours, and days.
+This is a very basic android app that calculates your age in minutes, hours, and days.Calculates your age by counting the number of Years, months and days since birth. The calculator depicts various stages of your life on a Timeline Chart.
 
 
 # App ScreenShot
